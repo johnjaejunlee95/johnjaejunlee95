@@ -1,6 +1,9 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjaejunlee95)](https://github.com/anuraghazra/github-readme-stats)
+## 👋👋👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnjaejunlee95&show_icons=true&theme=synthwave" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnjaejunlee95&theme=dark&hide_border=true" width="400">
+</p>
 <!--
 **johnjaejunlee95/johnjaejunlee95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

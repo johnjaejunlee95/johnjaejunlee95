@@ -1,9 +1,11 @@
-## 👋👋👋
+## 👋👋👋 Hi there, this is johnjaejunlee95!!
+![Profile View Counter](https://komarev.com/ghpvc/?username=johnjaejunlee95)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnjaejunlee95/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:johnjaejunlee@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:johnjaejunlee95@unist.ac.kr)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnjaejunlee95&show_icons=true&theme=synthwave" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnjaejunlee95&theme=dark&hide_border=true" width="400">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=johnjaejunlee95&show_icons=true&theme=dracula">
+
 <!--
 **johnjaejunlee95/johnjaejunlee95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

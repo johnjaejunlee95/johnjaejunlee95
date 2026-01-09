@@ -4,8 +4,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:johnjaejunlee@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:johnjaejunlee95@unist.ac.kr)
 
-<img src="https://github-readme-stats.vercel.app/api?username=johnjaejunlee95&show_icons=true&theme=dracula">
-
 <!--
 **johnjaejunlee95/johnjaejunlee95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
